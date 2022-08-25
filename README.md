@@ -2,7 +2,7 @@
 
 My name is Alexandar I. Tzanov. You can call me either Alexandar or Al.
 
-I am a full-stack LAPM developer with sys-admin experience. I also have experience working with clients providing software development services as I guide their products through the software development life cycle. In addition, my experience with customer extend also to end users, providing primarily Tier 3 support.
+I am a full-stack LAMP developer with sys-admin experience. I also have experience working with clients providing software development services as I guide their products through the software development life cycle. In addition, my experience with customers extend also to end users, providing primarily Tier 3 support.
 
 GitHub is home only to some of my projects. My active projects live in repositories on Google Cloud and Microsoft Azure. My Cloud experience range from organization/user and billing administration to App Engine, Datastore/Firestore, and Cloud Build on GCP, and VM, MySQL, and App Services on Azure. I have also used cloud functions for deploying custom APIs.
 
