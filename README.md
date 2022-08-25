@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Alexandar I. Tzanov. You can call me either Alexandar or Al.
+
+I am a full-stack LAPM developer with sys-admin experience. I also have experience working with clients providing software development services as I guide their products through the software development life cycle. In addition, my experience with customer extend also to end users, providing primarily Tier 3 support.
+
+GitHub is home only to some of my projects. My active projects live in repositories on Google Cloud and Microsoft Azure. My Cloud experience range from organization/user and billing administration to App Engine, Datastore/Firestore, and Cloud Build on GCP, and VM, MySQL, and App Services on Azure. I have also used cloud functions for deploying custom APIs.
+
+You can reach me via email or on Twitter ([@thetitan](https://www.twiter.com/thetitan "Alexandar Tzanov's Twitter profile")). Or, we can connect on LinkedIn ([@thetitan](https://www.linkedin.com/in/thetitan/ "Alexandar Tzanov's LinkedIn profile")). Don't forget to checkout my personal blog called [Titan Fusion](https://www.titanfusion.net/ "Titan Fusion").
 
 <!--
 **thetitan/thetitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
