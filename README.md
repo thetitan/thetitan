@@ -1,7 +1,3 @@
-<style type="text/css" rel="stylesheet">
-* { background: #f8f8ff; text-align: justify; }
-#profile-img { border: solid 2px #dbe9f4; padding: 4px; background-color: #f0ffff; margin: 0 0 10px 10px;}
-</style>
 # Hi there 👋
 
 <img align="right" height="236" width="181" src="./assets/images/business_n_hat.png" alt="Alexandar T." id="profile-img"/>My name is Alexandar I. Tzanov. You can call me either Alexandar or Al.
