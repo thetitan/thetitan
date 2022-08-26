@@ -1,6 +1,10 @@
+<style type="text/css" rel="stylesheet">
+* { background: #f8f8ff; text-align: justify; }
+#profile-img { border: solid 2px #dbe9f4; padding: 4px; background-color: #f0ffff; margin: 0 0 10px 10px;}
+</style>
 # Hi there 👋
 
-My name is Alexandar I. Tzanov. You can call me either Alexandar or Al.
+<img align="right" height="236" width="181" src="./assets/images/business_n_hat.png" alt="Alexandar T." id="profile-img"/>My name is Alexandar I. Tzanov. You can call me either Alexandar or Al.
 
 I am a full-stack LAMP developer with sys-admin experience. I also have experience working with clients providing software development services as I guide their products through the software development life cycle. In addition, my experience with customers extend also to end users, providing primarily Tier 3 support.
 
